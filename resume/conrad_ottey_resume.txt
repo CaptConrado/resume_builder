@@ -19,9 +19,8 @@ Greek Pull/Velocity Accelerator                                                 
 
 Served an advisory role for a startup aiming to create a crowdfunding platform designed for fraternities. I served as an advisor in order to help the team save time and money while they pivoted.
 
-- Saved team $300 a month in server costs by finding alternative hosting plans.
+- Reduced server costs by 90% by finding alternative hosting plans.
 - Advised team of various web frameworks in order to build out platform for future iterations.
-- Built their initial minimum viable product. 
 - Helped team with customer discovery process following the lean startup methodology.
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
