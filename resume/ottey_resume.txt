@@ -1,0 +1,67 @@
+Conrad W. Ottey Jr.
+858-213-3362
+                         ottey001@gmail.com
+
+Objective:  Build simple, enjoyable web applications.
+
+Languages:  Ruby, Javascript, HTML, CSS, SQL, Python, C++
+Framework:  Ruby on Rails, Sinatra, Postgres, jQuery, ExtJS, Git
+Strengths:  Object Oriented Design, Technical Writing
+
+Education:  Bachelors of Arts in Communication. Graduated May 2009
+            California State Universty, San Marcos
+
+Experience:
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+Technical Advisor                                      April 2013 - June 2013
+Greek Pull/Velocity Accelerator                                                    Jeffersonville, IN
+
+Served an advisory role for a startup aiming to create a crowdfunding platform designed for fraternities. I served as an advisor in order to help the team save time and money while they pivoted.
+
+- Reduced server costs by 90% by finding alternative hosting plans.
+- Advised team of various web frameworks in order to build out platform for future iterations.
+- Helped team with customer discovery process following the lean startup methodology.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+Software Consultant                                      November 2012 - Present
+truBrain www.trubrain.com                                                     Los Angeles, CA
+
+Assisted startup company as a volunteer to recruiting a development team in addition to helping to build out new site.
+
+- Assisted in moving platform from Wordpress to Django.
+- Implemented front end designs using HTML CSS and Javascript.
+- Recruited members to the technical team.
+- Began porting sight over to Ruby on Rails.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+Software Developer                                      August 2012 - June 2013
+Gap Intelligence www.gapintelligence.com                                                   San Diego, CA
+
+Maintained and converted existing data gathering program from Perl to Ruby,while participating in continues code reviews. 
+
+- Refactored the code base and increased readability, while reducing the lines of code by 40%.
+- Finished project early and joined the rest of the developers in adding functionality to the existing applications in development.
+- Had the oppritunity to redesign several screens in order to improve usability. 
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+Product Specialist                                       August 2011 - May 2012
+SmartDraw Software www.smartdraw.com                                                     San Diego, CA
+
+Fielded inbound calls and emails from SmartDraw customers in order to assist them with technical issues. 
+
+- Assisted customers from a wide range of industries on technical issues.
+- Assisted the sales team on possible leads for larger accounts.
+- Served a sales role for smaller sales (< $8500).
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+Project Manager                                  September 2010 - May 2011 
+ASU/New Media Innovation Lab                                 Phoenix, AZ
+
+While attending graduate school, I worked as a project manager on a mobile webapp that provided Downtown Phoenix residents with a guide to local events and restaurants.
+
+- Led a team of six in the creation, marketing, and distribution of the app.
+- Met with community leaders in order to secure funding and input for application.
+- Tested the geolocation features across the Phoenix Metro area.
+
+ 
