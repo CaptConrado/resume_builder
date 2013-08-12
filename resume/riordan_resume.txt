@@ -2,13 +2,13 @@ Conrad W. Ottey Jr.
 858-213-3362
                          ottey001@gmail.com
 
-Objective:  Build simple, enjoyable web applications.
+Objective:  Join the Riordan MBA Fellows Program class of 2014.
 
 Languages:  Ruby, Javascript, HTML, CSS, SQL, Python, C++
 Framework:  Ruby on Rails, Sinatra, Postgres, jQuery, ExtJS, Git
 Strengths:  Object Oriented Design, Technical Writing
 
-Education:  Bachelors of Arts in Communication. Graduated May 2009
+Education:  Bachelors of Arts Communication. Graduated May 2009
             California State Universty, San Marcos
 
 Experience:

@@ -27,7 +27,7 @@ end
 
 module Resume
   Experience = Struct.new(:company, :role, :time, :location, :summary, :points)
-  FILE = 'conrad_ottey_resume'
+  FILE = 'riordan_resume'
   
   def self.convert
     reader = Reader.new(FILE + '.txt')
